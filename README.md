@@ -34,7 +34,7 @@ Methods:
 getCar(), getCustomer(), getDays(): Getters for the rental attributes.
 CarRentalSystem Class:
 
-<h3>CarRentalSystem Class</h3?
+<h3>CarRentalSystem Class</h3>
 This class manages the car rental system operations, including adding cars, renting cars, and returning cars.
 
 Attributes:
