@@ -1,7 +1,7 @@
 # Car-Rental-System-Java-Project
 
 <h3>Car Class: </h3>
-
+<h5>
 Attributes:
 carId: Unique identifier for the car.
 brand: The brand of the car (e.g., Toyota, Honda).
@@ -15,9 +15,9 @@ calculatePrice(int rentalDays): Calculates the total rental price for a given nu
 isAvailable(): Checks if the car is available.
 rent(): Marks the car as rented.
 returnCar(): Marks the car as available.
-
+</h5>
 <h3>Customer Class:</h3>
-
+<h5>
 Attributes:
 customerId: Unique identifier for the customer.
 name: The name of the customer.
@@ -92,3 +92,4 @@ menu(): Provides an interactive menu for the user, allowing them to choose betwe
 rentCarMenu(Scanner scanner): Handles the user input and logic for renting a car.
 returnCarMenu(Scanner scanner): Handles the user input and logic for returning a car.
 This structured approach makes the system easy to understand, maintain, and extend with additional features if necessary. The refactoring and enhancements improve user experience and system robustness.
+</h5>
