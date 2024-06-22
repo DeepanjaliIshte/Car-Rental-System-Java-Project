@@ -1,6 +1,6 @@
 # Car-Rental-System-Java-Project
 
-<h4>Car Class: </h4>
+<h3>Car Class: </h3>
 
 Attributes:
 carId: Unique identifier for the car.
