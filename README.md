@@ -9,6 +9,7 @@
  Efficiently managing customers, cars, and rentals in the system.
 </h6>
 <h3>Car Class: </h3>
+
 <h6>
 Attributes: <br>
 carId: Unique identifier for the car. <br>
@@ -33,9 +34,10 @@ name: The name of the customer. <br>
    <br>
 Methods: <br>
 getCustomerId(), getName(): Getters for the customer attributes. <br>
-  
-<h3>Rental Class: </h3>
+</h6>
 
+<h3>Rental Class: </h3>
+<h6>
 Attributes: <br>
 car: The car being rented. <br>
 customer: The customer renting the car. <br>
@@ -63,9 +65,9 @@ displayAvailableCars(): Displays the list of available cars. <br>
 menu(): Main menu for interacting with the car rental system. <br>
 rentCarMenu(Scanner scanner): Handles the process of renting a car. <br>
 returnCarMenu(Scanner scanner): Handles the process of returning a car. <br>
-
+</h6>
 <h4>Main Program Flow</h4>
-
+<h6>
 Initialization: <br>
 The CarRentalSystem is initialized, and a few cars are added to the system in the main method.
 
